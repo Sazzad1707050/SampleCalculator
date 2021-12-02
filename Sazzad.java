@@ -1,7 +1,7 @@
 public class Sazzad{
     int a;
-    public void set (int x) {
-       a=x; 
+    public void set (int xa) {
+       a=xa; 
     }
     public int get (){
         return a;

@@ -4,6 +4,6 @@ public class Sazzad{
        a=xa; 
     }
     public int get (){
-        return a;
+        return aa;
     }
 }

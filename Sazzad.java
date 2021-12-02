@@ -6,4 +6,8 @@ public class Sazzad{
     public int get (){
         return 800;
     }
+
+    public static void main() {
+        int a;
+    }
 }

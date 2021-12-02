@@ -1,9 +1,9 @@
 public class Sazzad{
     int a;
     public void set (int x) {
-       a=x; 
+       a=xa; 
     }
     public int get (){
-        return a;
+        return 800;
     }
 }
